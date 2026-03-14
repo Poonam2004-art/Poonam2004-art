@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi 👋 I am Poonam
+This is my first repository.<br>
+Aim to become UI/UX Designer
 <!--
 **Poonam2004-art/Poonam2004-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
